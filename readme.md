@@ -117,5 +117,5 @@ WD-ProjectName
 | WD-Template-Project | This Repository is Template for future activities of WD and AWD. | https://github.com/zyx-0314/WD-Template-Project |
 | w3school | Website used as a quide for harder code functions. | https://www.w3schools.com/ |
 | Bootstrap 5 Crash Course | Used as a guide for bootstrap introduction and implementation. | https://youtu.be/Jyvffr3aCp0 |
-| Responsive Contact Us Page Design using Html CSS | HTML Responsive Web Page Design | Main quide sheet for the contact page. | https://youtu.be/gggB0Nq5vBk |
+| Responsive Contact Us Page Design using Html CSS | Main quide sheet for the contact page. | https://youtu.be/gggB0Nq5vBk |
 
