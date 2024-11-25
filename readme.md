@@ -6,21 +6,21 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/penguin logo.svg" alt="kwekwek" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Penguin Random House</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Penguin Random House is a book publishing company founded in 2013 and is based in New York.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=JasmineGalvez/WD_PENGUINRH)
 
 ---
 
@@ -60,23 +60,20 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- The project is centralized around the idea of creating and designing a website around an already existing company, in our group, specifically a Publishing Company.
+- The purpos is to meet the requirements of the given project and to create a website that fits the standard and meets the caliber of actual company-owned websites.
+- MultiPage Website (looks trnsactional but is not)
+- HTML and CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +114,8 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| WD-Template-Project | This Repository is Template for future activities of WD and AWD. | https://github.com/zyx-0314/WD-Template-Project |
+| w3school | Website used as a quide for harder code functions. | https://www.w3schools.com/ |
+| Bootstrap 5 Crash Course | Used as a guide for bootstrap introduction and implementation. | https://youtu.be/Jyvffr3aCp0 |
+| Responsive Contact Us Page Design using Html CSS | HTML Responsive Web Page Design | Main quide sheet for the contact page. | https://youtu.be/gggB0Nq5vBk |
+
